@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Andersen2_dop_vorona</string>
+
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+    <string name="reset">reset</string>
+
 </resources>
